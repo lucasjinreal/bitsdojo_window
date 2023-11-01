@@ -23,8 +23,8 @@ dependencies:
     sdk: flutter
   bitsdojo_window_platform_interface: ^0.1.2
     #path: ../bitsdojo_window_platform_interface
-  bitsdojo_window_windows: ^0.1.5
-    #path: ../bitsdojo_window_windows
+  bitsdojo_window_windows:
+    path: ../bitsdojo_window_windows
   bitsdojo_window_macos: ^0.1.3
     #path: ../bitsdojo_window_macos
   bitsdojo_window_linux: ^0.1.3
